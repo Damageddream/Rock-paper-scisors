@@ -1,4 +1,4 @@
-
+//notes
 function playerChocie() {
     let chocie = prompt('Rock, paper or scisors?')
     chocie = chocie.toLowerCase().trim()
